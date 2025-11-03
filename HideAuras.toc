@@ -1,7 +1,7 @@
 ## Interface: 110200
-## Title: CleanFrames
+## Title: Hide Auras
 ## Notes: Hides auras on arena frames, nameplates, and raid frames for minimal UI
 ## Author: MIYANKO
 ## Version: 1.0.0
 
-CleanFrames.lua
+HideAuras.lua
